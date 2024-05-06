@@ -6,3 +6,4 @@
 6. 基于feature分支添加内容
 7. 基于master分支添加内容
 8. 基于dev关于分支管理策略
+9. bug——fix分支解决bug
